@@ -1,7 +1,9 @@
 🎓 School-Management-System
+
 The School Management System is a comprehensive web application built using PHP and MySQL that simplifies and automates school operations. From managing students, teachers, and classes to tracking attendance and results, this platform streamlines school administration efficiently.
 
 🌟 Features
+
 ✔️ Multi-Role Portals
 
 🧑‍🎓 Student Portal – Students can:
@@ -51,5 +53,7 @@ The School Management System is a comprehensive web application built using PHP 
 →Handle user account management
 
 ✔️ User Authentication – Secure login/signup for all roles
+
 ✔️ Dashboard Overview – Role-based dashboards with relevant data
+
 ✔️ Responsive Design – Mobile-friendly and desktop-optimized UI
